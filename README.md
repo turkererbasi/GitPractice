@@ -1,2 +1,1 @@
-# Git Practice Project
-This project is for learning Git basics.
+This is the new branch
